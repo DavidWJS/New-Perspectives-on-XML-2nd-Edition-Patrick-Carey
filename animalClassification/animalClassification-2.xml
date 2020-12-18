@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<?xml-stylesheet type="text/xsl" href="animalClassification-2.xsl"?>
+
+<animals>
+    <type name="Mammals">
+        <trait>Endothermic(warm-blooded)</trait>
+        <trait>Vertebrage</trait>
+        <animal>Bear</animal>
+        <animal>Cat</animal>
+        <animal>Dog</animal>
+    </type>
+    <type name="Reptiles">
+        <trait>Cold-blooded</trait>
+        <trait>Scales</trait>
+        <trait>Lungs</trait>
+        <trait>Backbones</trait>
+        <animal>Crocodile</animal>
+        <animal>Snake</animal>
+        <animal>Platypus</animal>
+    </type>
+    <type name="Brids">
+        <trait>Feathers</trait>
+        <trait>Endothermic</trait>
+        <trait>Oviparous(lay down eggs)</trait>
+        <trait>Wings</trait>
+        <animal>Platypus</animal>
+        <animal>Pigeon</animal>
+        <animal>Turkey</animal>
+    </type>
+    <type name="Amphibians">
+        <trait>Cold-blooded</trait>
+        <trait>Vertebrates</trait>
+        <trait>Need water to survive</trait>
+        <trait>Breathe/absorb water through their skin</trait>
+        <animal>Frog</animal>
+        <animal>Salamander</animal>
+        <animal>Newt</animal>
+    </type>
+    <type name="Fishes">
+        <trait>Cold-blooded</trait>
+        <trait>Backbone and fins</trait>
+        <trait>Scales (most)</trait>
+        <trait>Breathe with gills</trait>
+        <animal>Shark</animal>
+        <animal>Piranha</animal>
+        <animal>Eel</animal>
+    </type>
+</animals>

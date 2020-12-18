@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="car_2.xsl"?>
+
+<cars>
+    <car brand="BMW" model="X6">
+        <year>2015</year>
+        <qty>3</qty>
+        <price>18000</price>
+        <pic>x6_2015.jpg</pic>
+    </car>
+    <car brand="Toyota" model="Corolla">
+        <year>2016</year>
+        <qty>2</qty>
+        <price>13000</price>
+        <pic>corolla_2016.jpg</pic>
+    </car>
+    <car brand="Toyota" model="Corolla">
+        <year>2017</year>
+        <qty>3</qty>
+        <price>14000</price>
+        <pic>corolla_2017.jpg</pic>
+    </car>
+    <car brand="Honda" model="Civic">
+        <year>2017</year>
+        <qty>3</qty>
+        <price>17000</price>
+        <pic>civic_2017.jpg</pic>
+    </car>
+    <car brand="Honda" model="Civic">
+        <year>2019</year>
+        <qty>5</qty>
+        <price>19000</price>
+        <pic>civic_2019.jpg</pic>
+    </car>
+</cars>

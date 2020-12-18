@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="book_template.xsl" ?>
+
+<books>
+    <book>
+        <author>Harper Lee</author>
+        <title>To Kill a Mockingbird</title>
+        <pubyear>1960</pubyear>
+    </book>
+    <book>
+        <author>Jack London</author>
+        <title>The Call of the Wild</title>
+        <pubyear>1903</pubyear>
+    </book>
+    <book>
+        <author>Herman Melville</author>
+        <title>Moby-Dick</title>
+        <pubyear>1851</pubyear>
+    </book>
+    <book>
+        <author>Margaret Mitchell</author>
+        <title>Gone with the Wind</title>
+        <pubyear>1936</pubyear>
+    </book>
+    <book>
+        <author>Edgar Allan Poe</author>
+        <title>The Raven</title>
+        <pubyear>1845</pubyear>
+    </book>
+    <book>
+        <author>John Steinbeck</author>
+        <title>The Grapes of Wrath</title>
+        <pubyear>1939</pubyear>
+    </book>
+</books>

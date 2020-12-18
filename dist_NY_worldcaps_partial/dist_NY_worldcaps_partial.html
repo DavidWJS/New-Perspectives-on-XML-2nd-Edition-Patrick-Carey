@@ -1,0 +1,31 @@
+<html>
+    <head>
+        <title>Distance between NYC and world's capital</title>
+        <script type="text/javascript">
+            function validateform()
+            {
+                //read inputs
+                var inputCountry = document.getElementById("countryTxtBx").value.trim();
+                
+                //validation: no blanks, first&lastname strings, id a number
+                if (inputCountry != "" && isNaN(inputCountry)) {
+                }
+                else {
+                    alert("Please enter a valid country");
+                    return false;
+                }
+            }
+        </script>
+    </head>
+    <body>
+        <h2>Distance between NYC and world's capital</h2>
+        <form action="Hwk7.php" onsubmit="return validateform();">
+            Country: <input type="text" id="countryTxtBx" name="countryTxtBx" required autofocus/>
+            &nbsp;&nbsp;
+            <p></p>
+            <input type="submit" value="Enter"/>
+            &nbsp;&nbsp;
+            <input type="reset" value="Clear Values"/>
+        </form>
+    </body>
+</html>

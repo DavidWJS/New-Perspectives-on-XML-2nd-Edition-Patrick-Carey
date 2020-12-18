@@ -1,0 +1,23 @@
+<?xml version = "1.0" ?>
+
+<?xml-stylesheet type="text/xsl" href="fish_inventory.xsl"?>
+<fishes>
+    <fish name="Red Snapper">
+        <box>15</box>
+        <unitprice>8</unitprice>
+        <boxqty>20</boxqty>
+        <pic>RedSnapper.jpg</pic>
+    </fish> 
+    <fish name="Sea Bass">
+        <box>5</box>
+        <unitprice>10</unitprice>
+        <boxqty>10</boxqty>
+        <pic>SeaBass.jpg</pic>
+    </fish>
+    <fish name="Tuna">
+        <box>12</box>   
+        <unitprice>12</unitprice>   
+        <boxqty>13</boxqty>
+        <pic>Tuna.jpg</pic>
+    </fish>
+</fishes>

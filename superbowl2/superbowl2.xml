@@ -1,0 +1,375 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="superbowl2.xsl"?>
+<root>
+  <row>
+    <No.>I</No.>
+    <Date>Jan. 15, 1967</Date>
+    <Location>Los Angeles Memorial Coliseum (Los Angeles, CA)</Location>
+    <Winner>Green Bay</Winner>
+    <Result>Green Bay 35, Kansas City 10</Result>
+  </row>
+  <row>
+    <No.>II</No.>
+    <Date>Jan. 14, 1968</Date>
+    <Location>Orange Bowl (Miami, FL)</Location>
+    <Winner>Green Bay</Winner>
+    <Result>Green Bay 33, Oakland 14</Result>
+  </row>
+  <row>
+    <No.>III</No.>
+    <Date>Jan. 12, 1969</Date>
+    <Location>Orange Bowl (Miami, FL)</Location>
+    <Winner>New York Jets</Winner>
+    <Result>New York Jets 16, Baltimore 7</Result>
+  </row>
+  <row>
+    <No.>IV</No.>
+    <Date>Jan. 11, 1970</Date>
+    <Location>Tulane Stadium (New Orleans, LA)</Location>
+    <Winner>Kansas City</Winner>
+    <Result>Kansas City 23, Minnesota 7</Result>
+  </row>
+  <row>
+    <No.>V</No.>
+    <Date>Jan. 17, 1971</Date>
+    <Location>Orange Bowl (Miami, FL)</Location>
+    <Winner>Baltimore</Winner>
+    <Result>Baltimore 16, Dallas 13</Result>
+  </row>
+  <row>
+    <No.>VI</No.>
+    <Date>Jan. 16, 1972</Date>
+    <Location>Tulane Stadium (New Orleans, LA)</Location>
+    <Winner>Dallas</Winner>
+    <Result>Dallas 24, Miami 3</Result>
+  </row>
+  <row>
+    <No.>VII</No.>
+    <Date>Jan. 14, 1973</Date>
+    <Location>Los Angeles Memorial Coliseum (Los Angeles, CA)</Location>
+    <Winner>Miami</Winner>
+    <Result>Miami 14, Washington 7</Result>
+  </row>
+  <row>
+    <No.>VIII</No.>
+    <Date>Jan. 13, 1974</Date>
+    <Location>Rice Stadium (Houston, TX)</Location>
+    <Winner>Miami</Winner>
+    <Result>Miami 24, Minnesota 7</Result>
+  </row>
+  <row>
+    <No.>IX</No.>
+    <Date>Jan. 12, 1975</Date>
+    <Location>Tulane Stadium (New Orleans, LA)</Location>
+    <Winner>Pittsburgh</Winner>
+    <Result>Pittsburgh 16, Minnesota 6</Result>
+  </row>
+  <row>
+    <No.>X</No.>
+    <Date>Jan. 18, 1976</Date>
+    <Location>Orange Bowl (Miami, FL)</Location>
+    <Winner>Pittsburgh</Winner>
+    <Result>Pittsburgh 21, Dallas 17</Result>
+  </row>
+  <row>
+    <No.>XI</No.>
+    <Date>Jan. 9, 1977</Date>
+    <Location>Rose Bowl (Pasadena, CA)</Location>
+    <Winner>Oakland</Winner>
+    <Result>Oakland 32, Minnesota 14</Result>
+  </row>
+  <row>
+    <No.>XII</No.>
+    <Date>Jan. 15, 1978</Date>
+    <Location>Superdome (New Orleans, LA)</Location>
+    <Winner>Dallas</Winner>
+    <Result>Dallas 27, Denver 10</Result>
+  </row>
+  <row>
+    <No.>XIII</No.>
+    <Date>Jan. 21, 1979</Date>
+    <Location>Orange Bowl (Miami, FL)</Location>
+    <Winner>Pittsburgh</Winner>
+    <Result>Pittsburgh 35, Dallas 31</Result>
+  </row>
+  <row>
+    <No.>XIV</No.>
+    <Date>Jan. 20, 1980</Date>
+    <Location>Rose Bowl (Pasadena, CA)</Location>
+    <Winner>Pittsburgh</Winner>
+    <Result>Pittsburgh 31, Los Angeles 19</Result>
+  </row>
+  <row>
+    <No.>XV</No.>
+    <Date>Jan. 25, 1981</Date>
+    <Location>Superdome (New Orleans, LA)</Location>
+    <Winner>Oakland</Winner>
+    <Result>Oakland 27, Philadelphia 10</Result>
+  </row>
+  <row>
+    <No.>XVI</No.>
+    <Date>Jan. 24, 1982</Date>
+    <Location>Silverdome (Pontiac, MI)</Location>
+    <Winner>San Francisco</Winner>
+    <Result>San Francisco 26, Cincinnati 21</Result>
+  </row>
+  <row>
+    <No.>XVII</No.>
+    <Date>Jan. 30, 1983</Date>
+    <Location>Rose Bowl (Pasadena, CA)</Location>
+    <Winner>Washington</Winner>
+    <Result>Washington 27, Miami 17</Result>
+  </row>
+  <row>
+    <No.>XVIII</No.>
+    <Date>Jan. 22, 1984</Date>
+    <Location>Tampa Stadium (Tampa, FL)</Location>
+    <Winner>Los Angeles</Winner>
+    <Result>Los Angeles 38, Washington 9</Result>
+  </row>
+  <row>
+    <No.>XIX</No.>
+    <Date>Jan. 20, 1985</Date>
+    <Location>Stanford Stadium (Stanford, CA)</Location>
+    <Winner>San Francisco</Winner>
+    <Result>San Francisco 38, Miami 16</Result>
+  </row>
+  <row>
+    <No.>XX</No.>
+    <Date>Jan. 26, 1986</Date>
+    <Location>Superdome (New Orleans, LA)</Location>
+    <Winner>Chicago</Winner>
+    <Result>Chicago 46, New England 10</Result>
+  </row>
+  <row>
+    <No.>XXI</No.>
+    <Date>Jan. 25, 1987</Date>
+    <Location>Rose Bowl (Pasadena, CA)</Location>
+    <Winner>New York Giants</Winner>
+    <Result>New York Giants 39, Denver 20</Result>
+  </row>
+  <row>
+    <No.>XXII</No.>
+    <Date>Jan. 31, 1988</Date>
+    <Location>Jack Murphy Stadium (San Diego, CA)</Location>
+    <Winner>Washington</Winner>
+    <Result>Washington 42, Denver 10</Result>
+  </row>
+  <row>
+    <No.>XXIII</No.>
+    <Date>Jan. 22, 1989</Date>
+    <Location>Joe Robbie Stadium (Miami, FL)</Location>
+    <Winner>San Francisco</Winner>
+    <Result>San Francisco 20, Cincinnati 16</Result>
+  </row>
+  <row>
+    <No.>XXIV</No.>
+    <Date>Jan. 28, 1990</Date>
+    <Location>Superdome (New Orleans, LA)</Location>
+    <Winner>San Francisco</Winner>
+    <Result>San Francisco 55, Denver 10</Result>
+  </row>
+  <row>
+    <No.>XXV</No.>
+    <Date>Jan. 27, 1991</Date>
+    <Location>Tampa Stadium (Tampa, FL)</Location>
+    <Winner>New York Giants</Winner>
+    <Result>New York Giants 20, Buffalo 19</Result>
+  </row>
+  <row>
+    <No.>XXVI</No.>
+    <Date>Jan. 26, 1992</Date>
+    <Location>Metrodome (Minneapolis, MN)</Location>
+    <Winner>Washington</Winner>
+    <Result>Washington 37, Buffalo 24</Result>
+  </row>
+  <row>
+    <No.>XXVII</No.>
+    <Date>Jan. 31, 1993</Date>
+    <Location>Rose Bowl (Pasadena, CA)</Location>
+    <Winner>Dallas</Winner>
+    <Result>Dallas 52, Buffalo 17</Result>
+  </row>
+  <row>
+    <No.>XXVIII</No.>
+    <Date>Jan. 30, 1994</Date>
+    <Location>Georgia Dome (Atlanta, GA)</Location>
+    <Winner>Dallas</Winner>
+    <Result>Dallas 30, Buffalo 13</Result>
+  </row>
+  <row>
+    <No.>XXIX</No.>
+    <Date>Jan. 29, 1995</Date>
+    <Location>Joe Robbie Stadium (Miami, FL)</Location>
+    <Winner>San Francisco</Winner>
+    <Result>San Francisco 49, San Diego 26</Result>
+  </row>
+  <row>
+    <No.>XXX</No.>
+    <Date>Jan. 28, 1996</Date>
+    <Location>Sun Devil Stadium (Tempe, AZ)</Location>
+    <Winner>Dallas</Winner>
+    <Result>Dallas 27, Pittsburgh 17</Result>
+  </row>
+  <row>
+    <No.>XXXI</No.>
+    <Date>Jan. 26, 1997</Date>
+    <Location>Superdome (New Orleans, LA)</Location>
+    <Winner>Green Bay</Winner>
+    <Result>Green Bay 35, New England Patriots 21</Result>
+  </row>
+  <row>
+    <No.>XXXII</No.>
+    <Date>Jan. 25, 1998</Date>
+    <Location>Qualcomm Stadium (San Diego, CA)</Location>
+    <Winner>Denver</Winner>
+    <Result>Denver 31, Green Bay 24</Result>
+  </row>
+  <row>
+    <No.>XXXIII</No.>
+    <Date>Jan. 31, 1999</Date>
+    <Location>Pro Player Stadium (Miami, FL)</Location>
+    <Winner>Denver</Winner>
+    <Result>Denver 34, Atlanta 19</Result>
+  </row>
+  <row>
+    <No.>XXXIV</No.>
+    <Date>Jan. 30, 2000</Date>
+    <Location>Georgia Dome (Atlanta, GA)</Location>
+    <Winner>St. Louis</Winner>
+    <Result>St. Louis 23, Tennessee 16</Result>
+  </row>
+  <row>
+    <No.>XXXV</No.>
+    <Date>Jan. 28, 2001</Date>
+    <Location>Raymond James Stadium (Tampa, Fla.)</Location>
+    <Winner>Baltimore</Winner>
+    <Result>Baltimore 34, New York Giants 7</Result>
+  </row>
+  <row>
+    <No.>XXXVI</No.>
+    <Date>Feb. 3, 2002</Date>
+    <Location>Superdome (New Orleans, LA)</Location>
+    <Winner>New England</Winner>
+    <Result>New England Patriots 20, St. Louis 17</Result>
+  </row>
+  <row>
+    <No.>XXXVII</No.>
+    <Date>Jan. 26, 2003</Date>
+    <Location>Qualcomm Stadium (San Diego, CA)</Location>
+    <Winner>Tampa Bay</Winner>
+    <Result>Tampa Bay 48, Oakland 21</Result>
+  </row>
+  <row>
+    <No.>XXXVIII</No.>
+    <Date>Feb. 1, 2004</Date>
+    <Location>Reliant Stadium (Houston, TX)</Location>
+    <Winner>New England</Winner>
+    <Result>New England Patriots 32, Carolina 29</Result>
+  </row>
+  <row>
+    <No.>XXXIX</No.>
+    <Date>Feb. 6, 2005</Date>
+    <Location>Alltel Stadium (Jacksonville, FL)</Location>
+    <Winner>New England</Winner>
+    <Result>New England Patriots 24, Philadelphia Eagles 21</Result>
+  </row>
+  <row>
+    <No.>XL</No.>
+    <Date>Feb. 5, 2006</Date>
+    <Location>Ford Field (Detroit, MI)</Location>
+    <Winner>Pittsburgh</Winner>
+    <Result>Pittsburgh 21, Seattle 10</Result>
+  </row>
+  <row>
+    <No.>XLI</No.>
+    <Date>Feb. 4, 2007</Date>
+    <Location>Dolphin Stadium (Miami, FL)</Location>
+    <Winner>Indianapolis</Winner>
+    <Result>Indianapolis 29, Chicago 17</Result>
+  </row>
+  <row>
+    <No.>XLII</No.>
+    <Date>Feb. 3, 2008</Date>
+    <Location>University of Phoenix Stadium (Glendale, AZ)</Location>
+    <Winner>New York Giants</Winner>
+    <Result>New York Giants 17, New England 14</Result>
+  </row>
+  <row>
+    <No.>XLIII</No.>
+    <Date>Feb. 1, 2009</Date>
+    <Location>Raymond James Stadium (Tampa, FL)</Location>
+    <Winner>Pittsburgh</Winner>
+    <Result>Pittsburgh Steelers 27, Arizona Cardinals 23</Result>
+  </row>
+  <row>
+    <No.>XLIV</No.>
+    <Date>Feb. 7, 2010</Date>
+    <Location>Sun Life Stadium (Miami, FL)</Location>
+    <Winner>New Orleans</Winner>
+    <Result>New Orleans Saints 31, Indianapolis Colts 17</Result>
+  </row>
+  <row>
+    <No.>XLV</No.>
+    <Date>Feb. 6, 2011</Date>
+    <Location>Cowboys Stadium (Arlington, TX)</Location>
+    <Winner>Green Bay</Winner>
+    <Result>Green Bay Packers 31, Pittsburgh Steelers 25</Result>
+  </row>
+  <row>
+    <No.>XLVI</No.>
+    <Date>Feb. 5, 2012</Date>
+    <Location>Lucas Oil Stadium (Indianapolis)</Location>
+    <Winner>New York Giants</Winner>
+    <Result>New York Giants 21, New England Patriots 17</Result>
+  </row>
+  <row>
+    <No.>XLVII</No.>
+    <Date>Feb. 3, 2013</Date>
+    <Location>Mercedes-Benz Superdome (New Orleans, LA)</Location>
+    <Winner>Baltimore</Winner>
+    <Result>Baltimore Ravens 34, San Francisco 49ers 31</Result>
+  </row>
+  <row>
+    <No.>XLVIII</No.>
+    <Date>Feb. 2, 2014</Date>
+    <Location>MetLife Stadium (East Rutherford, NJ)</Location>
+    <Winner>Seattle</Winner>
+    <Result>Seattle Seahawks 43, Denver Broncos 8</Result>
+  </row>
+  <row>
+    <No.>XLIX</No.>
+    <Date>Feb. 1, 2015</Date>
+    <Location>University of Phoenix Stadium (Glendale, AZ)</Location>
+    <Winner>New England</Winner>
+    <Result>New England Patriots 28, Seattle Seahawks 24</Result>
+  </row>
+  <row>
+    <No.>L</No.>
+    <Date>Feb. 7, 2016</Date>
+    <Location>Levi&apos;s Stadium (Santa Clara, Calif.)</Location>
+    <Winner>Denver</Winner>
+    <Result>Denver Broncos 24, Carolina Panthers 10</Result>
+  </row>
+  <row>
+    <No.>LI</No.>
+    <Date>Feb. 5, 2017</Date>
+    <Location>Houstons NRG Stadium (Houston, TX)</Location>
+    <Winner>New England</Winner>
+    <Result>New England Patriots 34, Atlanta Falcons 28</Result>
+  </row>
+  <row>
+    <No.>LII</No.>
+    <Date>Feb. 4, 2018</Date>
+    <Location>Minneapolis US Bank Stadium (Minneapolis, MN)</Location>
+    <Winner>Philadelphia Eagles</Winner>
+    <Result>Philadelphia Eagles 41, New England Patriots 33</Result>
+  </row>
+  <row>
+    <No.>LIII</No.>
+    <Date>Feb. 3, 2019</Date>
+    <Location>Mercedes-Benz Stadium (Atlanta, GA)</Location>
+    <Winner>New England</Winner>
+    <Result>New England Patriots 13, Los Angeles Rams 3</Result>
+  </row>
+</root>

@@ -1,0 +1,58 @@
+<html>
+    <head>
+        <title>Registration Form</title>
+        <script type="text/javascript">
+            function validateform()
+            {
+                //read inputs
+                var inputFName = document.getElementById("fnameTxtBx").value.trim();
+                var inputLName = document.getElementById("lnameTxtBx").value.trim();
+                var inputID = document.getElementById("idTxtBx").value.trim();
+                
+                //validation: no blanks, first&lastname strings, id a number
+                if (inputLName != "" && isNaN(inputLName))
+                {
+                    if(inputFName != "" && isNaN(inputFName))
+                    {
+                        if (inputID != "" && !isNaN(inputID))
+                        {
+                            
+                        }
+                        else
+                        {
+                            alert("Please enter a valid ID name");
+                            return false;
+                        }
+                    }
+                    else
+                    {
+                    alert("Please enter a valid first name");
+                    return false;
+                    }
+                }
+                else
+                {
+                    alert("Please enter a valid last name");
+                    return false;
+                }
+            }
+        </script>
+    </head>
+    <body>
+        <h2>Registration Form</h2>
+        <form action="wa_process_csv.php" onsubmit="return validateform();">
+            First Name: <input type="text" id="fnameTxtBx"
+            name="fnameTxtBx" required autofocus/>
+            &nbsp;&nbsp;
+            Last Name: <input type="text" id="lnameTxtBx"
+            name="lnameTxtBx" required/>
+            <p></p>
+            ID: <input type="text" id="idTxtBx"
+            name="idTxtBx" required/>
+            <p></p>
+            <input type="submit" value="Register"/>
+            &nbsp;&nbsp;
+            <input type="reset" value="Clear Values"/>
+        </form>
+    </body>
+</html>

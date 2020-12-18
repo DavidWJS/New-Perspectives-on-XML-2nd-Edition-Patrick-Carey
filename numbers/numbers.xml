@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<?xml-stylesheet type="text/xsl" href="numbers.xsl" ?>
+<!-- root(/) -->
+<numbers>
+    <A>2.55</A>
+    <B>4.14</B>
+    <C>0.45</C>
+    
+</numbers>
